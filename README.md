@@ -1,2 +1,2 @@
 # dio_power_bi
-Repositório relacionado a formação de Power BI Analyst
+Repositório relacionado aos projetos do bootcamp "Santander Bootcamp 2023 - Ciência de Dados com Python"
